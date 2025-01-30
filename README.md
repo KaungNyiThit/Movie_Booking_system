@@ -8,8 +8,6 @@ A web application for booking movie tickets, managing showtimes, and handling se
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
