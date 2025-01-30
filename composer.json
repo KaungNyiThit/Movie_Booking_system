@@ -1,0 +1,10 @@
+{
+    "name": "dell/movie-booking-system",
+    "autoload": {
+        "psr-4": {
+            "Libs\\": "classes/Libs/",
+            "Helpers\\": "classes/Helpers/"
+        }
+    },
+    "require": {}
+}
